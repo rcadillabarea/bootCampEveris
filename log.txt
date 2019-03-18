@@ -1,2 +1,3 @@
 Fichero de log:
 + Se han añadido nuevos archivos.
++ Añadida una nueva funcionalidad
